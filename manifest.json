@@ -845,16 +845,16 @@
   },
   "files": {
     ".Rbuildignore": {
-      "checksum": "87f9d4ec0ffedff42d9aa1a7e04c6c96"
+      "checksum": "55e20606117d9dcc87869515005b5c94"
     },
     "app.R": {
-      "checksum": "2280da552a107aa89df1fe31766ce1b2"
+      "checksum": "f8d8f492b93633fae053a423d90cee98"
     },
     "DESCRIPTION": {
       "checksum": "85d874c8a934c89b99a50fa39c7677ae"
     },
     "README.md": {
-      "checksum": "5743da82afb77d9e7499c644975dcc4e"
+      "checksum": "3ae402eca18d430cc6dc57f875f22531"
     }
   },
   "users": null
